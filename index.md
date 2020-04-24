@@ -28,11 +28,13 @@ layout: default
           <div class="bg-light-orange px-4 py-4 text-center mt-auto">
             <p class="mb-0">Share on:&nbsp;
               <a href="https://twitter.com/intent/tweet?url={{ piece.url }}&amp;text={{ piece.title }}%0D%0Avia @nearsoft%0D%0A"
-                class="share twitter btn btn-primary"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+                class="share twitter btn btn-primary" data-lity><i class="fa fa-twitter"></i><span> Twitter</span></a>
               <a href="https://www.facebook.com/sharer/sharer.php?u={{ piece.url }}"
-                class="share facebook btn btn-primary"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+                class="share facebook btn btn-primary" data-lity><i class="fa fa-facebook"></i><span>
+                  Facebook</span></a>
               <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ piece.url }}&amp;title={{ piece.title }}&amp;summary={{ piece.description }}&amp;source="
-                class="share linkedin btn btn-primary"><i class="fa fa-linkedin"></i><span> Linkedin</span></a>
+                class="share linkedin btn btn-primary" data-lity><i class="fa fa-linkedin"></i><span>
+                  Linkedin</span></a>
             </p>
           </div>
         </div>
