@@ -1,0 +1,28 @@
+# ADD NEWER PAGES AT THE TOP
+
+list:
+
+# - title: 
+#     description: 
+#     url: 
+#     image: 
+
+  - title: Find the Best Nearshore Partner
+    description: We did the heavy lifting and put together a list of the top 30 Nearshore software developers for companies based in the United States.
+    url: https://l.nearsoft.com/nearshore-partners
+    image: https://l.nearsoft.com/hubfs/landing-assets/nearshore-list.jpg
+
+  - title: Working Remotely
+    description: At Nearsoft we have been working from home for over 10 years, so we’ve put together a list of resources to ease your transition from office to home.
+    url: https://nearsoft.com/remote-work/
+    image: https://nearsoft.com/wp-content/uploads/2020/03/adrien-tutin-yriat09WEHc-unsplash.jpg
+
+  - title: Assembling a Dev Team
+    description: Software Development companies face harsh challenges to grow their development teams.
+    url: https://nearsoft.com/assembling-a-team/
+    image: https://nearsoft.com/wp-content/uploads/2020/03/nearsoft-sofware-testers.jpg
+      
+  - title: Sit back and relax...
+    description: Working with Nearsoft allows you to sit back and enjoy the ride. You will reach the destination on time.
+    url: https://nearsoft.com/nearshore/we-drive/
+    image: https://nearsoft.com/nearshore/assets/img/covers/we-drive.png
